@@ -1,6 +1,5 @@
-## Hi there 👋
 
-- ⚡ Fun fact: ... I'm still tinkering
+uhm...still tinkering
 <!--
 **lagathub/lagathub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
