@@ -1,7 +1,11 @@
 
 Herbert here. Passionate about solving complex problems through code. 
 While (programming has its challenges) {
-   committed to mastering it as a craft! }
+   I'm committed to mastering it as a craft! }
+
+## Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
 <!--
 **lagathub/lagathub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
