@@ -1,6 +1,6 @@
 
 Herbert here. Passionate about solving complex problems through code. 
-While (programming has its challenges) {
+While (programming has its challenges)                              {
    I'm committed to mastering it as a craft! }
 
 ## Languages && Scripts
