@@ -3,7 +3,7 @@ Herbert here. Passionate about solving complex problems through code.
 While (programming has its challenges) {
    I'm committed to mastering it as a craft! }
 
-## Most Used Languages
+## Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lagathub&layout=compact&theme=dark)
 <!--
