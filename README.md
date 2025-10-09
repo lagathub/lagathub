@@ -1,5 +1,7 @@
 
-On the way _keep track!
+Herbert here. Passionate about solving complex problems through code. 
+While (programming has its challenges) {
+   committed to mastering it as a craft! }
 <!--
 **lagathub/lagathub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
