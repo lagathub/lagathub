@@ -5,7 +5,7 @@ While (programming has its challenges) {
 
 ## Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lagathub&layout=compact&theme=dark)
 <!--
 **lagathub/lagathub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
