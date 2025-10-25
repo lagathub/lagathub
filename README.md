@@ -1,8 +1,3 @@
-
-Herbert here. Passionate about solving complex problems through code. 
-While (programming has its challenges)                              {
-   I'm committed to mastering it as a craft! }
-
 ## Languages && Scripts
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lagathub&layout=donut&langs_count=10&theme=dark)
