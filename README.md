@@ -27,8 +27,8 @@ I am currently maintaining a self-hosted, high-availability lab on **Arch Linux*
 ---
 
 ### Engineering Stats
-![Bertman's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=tokyonight)
+![Bertman's GitHub stats](https://github-readme-stats.vercel.app/api?username=lagathub&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lagathub&layout=compact&theme=tokyonight)
 
 ---
 
