@@ -1,26 +1,44 @@
-## Languages && Scripts
-Hi, Herbert here. I love a challenge and there's nothing more challenging than the verbosity of Java.
+# Terminal: ~/bertman/bio
 
-Meet, my so far preferred tools of execution:
+### Backend & Systems Engineer | OCI Certified Professional
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-<!--
-**lagathub/lagathub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I architect secure, scalable environments where code meets infrastructure. My focus is on **Zero-Trust Networking**, **Container Orchestration**, and **High-Availability Systems**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+### 🏗️ Current Project: Private Mesh Infrastructure
+I am currently maintaining a self-hosted, high-availability lab on **Arch Linux** featuring:
+- **Networking:** Private WireGuard mesh via **Tailscale** for Zero-Trust remote access.
+- **Reverse Proxy:** Optimized **Nginx** ingress with strict COOP/COEP security header enforcement.
+- **Automation:** Custom **Systemd** timers and **Bash** health-check suites for self-healing services.
+- **Containerization:** Multi-service orchestration using **Docker Compose**.
 
--->
+---
+
+### The Toolkit
+
+| Category | technologies |
+| :--- | :--- |
+| **OS & Kernel** | Arch Linux, Linux Kernel Optimization, Systemd, Bash |
+| **DevOps** | Docker, Docker Compose, Nginx, CI/CD Pipelines |
+| **Cloud & Network** | OCI (Certified), Tailscale, WireGuard, Zero Trust, SSL/TLS |
+| **Backend** | Node.js, Next.js, Firebase, SQLite (Client-Side Isolation) |
+
+---
+
+### Engineering Stats
+![Bertman's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=tokyonight)
+
+---
+
+### 🤝 Open Source Contributions
+- **[Actual Budget](https://github.com/actualbudget/actual):** Documented and resolved upstream header collisions for Nginx deployments to enable SharedArrayBuffer execution.
+
+---
+
+### Reach Me
+- **LinkedIn:** [www.linkedin.com/in/lagathub](#)
+- **Email:** [hubart26@email.com](#)
+
+> "The difference between a coder and an engineer is how they handle the infrastructure that lives beneath the function call."
