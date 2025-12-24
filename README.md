@@ -32,13 +32,13 @@ I am currently maintaining a self-hosted, high-availability lab on **Arch Linux*
 
 ---
 
-### System Health
-[![Uptime Kuma](https://img.shields.io/badge/Service_Status-Online-success?style=flat-square&logo=uptime-kuma)](https://status.beardie-daggertooth.ts.net/status/status)
+### 🤝 Open Source Contributions
+- **[Actual Budget](https://github.com/actualbudget/actual):** Documented and resolved upstream header collisions for Nginx deployments to enable SharedArrayBuffer execution.
 
 ---
 
-### 🤝 Open Source Contributions
-- **[Actual Budget](https://github.com/actualbudget/actual):** Documented and resolved upstream header collisions for Nginx deployments to enable SharedArrayBuffer execution.
+### System Health
+[![Uptime Kuma](https://img.shields.io/badge/Service_Status-Online-success?style=flat-square&logo=uptime-kuma)](https://status.beardie-daggertooth.ts.net/status/status)
 
 ---
 
