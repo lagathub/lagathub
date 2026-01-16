@@ -1,17 +1,6 @@
 # Terminal: ~/bertman/bio
 
-### Backend & Systems Engineer | OCI Certified Professional
-
-I architect secure, scalable environments where code meets infrastructure. My focus is on **Zero-Trust Networking**, **Container Orchestration**, and **High-Availability Systems**.
-
----
-
-### 🏗️ Current Project: Private Mesh Infrastructure
-I am currently maintaining a self-hosted, high-availability lab on **Arch Linux** featuring:
-- **Networking:** Private WireGuard mesh via **Tailscale** for Zero-Trust remote access.
-- **Reverse Proxy:** Optimized **Nginx** ingress with strict COOP/COEP security header enforcement.
-- **Automation:** Custom **Systemd** timers and **Bash** health-check suites for self-healing services.
-- **Containerization:** Multi-service orchestration using **Docker Compose**.
+### Backend & Systems Engineer
 
 ---
 
