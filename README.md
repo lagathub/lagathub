@@ -4,17 +4,6 @@
 
 ---
 
-### The Toolkit
-
-| Category | technologies |
-| :--- | :--- |
-| **OS & Kernel** | Arch Linux, Linux Kernel Optimization, Systemd, Bash |
-| **DevOps** | Docker, Docker Compose, Nginx, CI/CD Pipelines |
-| **Cloud & Network** | OCI (Certified), Tailscale, WireGuard, Zero Trust, SSL/TLS |
-| **Backend** | Node.js, Next.js, Firebase, SQLite (Client-Side Isolation) |
-
----
-
 ### Engineering Stats
 ![Bertman's GitHub stats](https://github-readme-stats-kappa-umber-96.vercel.app/api?username=lagathub&show_icons=true&theme=tokyonight&custom_title=lagathub's%20GitHub%20Stats)
 ![Top Langs](https://github-readme-stats-kappa-umber-96.vercel.app/api/top-langs/?username=lagathub&layout=compact&theme=tokyonight)
